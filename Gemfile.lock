@@ -4,7 +4,7 @@ PATH
     avatax (14.4.4)
       addressable (~> 2.3)
       json (~> 1.8)
-      rest-client (~> 1.6.8)
+      rest-client (~> 1.6.7)
 
 GEM
   remote: https://rubygems.org/
